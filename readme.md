@@ -1,1 +1,1 @@
-# Just me going through the Exercises in the book
+# Just going through the Exercises in the book
